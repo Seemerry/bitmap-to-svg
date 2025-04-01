@@ -114,7 +114,7 @@ python src/bitmap_to_svg.py
 
 🧑‍💻 作者
 
-本工具由你开发，使用了：
+本工具由Seemerry开发，使用了：
 	•	OpenCV（图像处理）
 	•	scikit-image（轮廓提取）
 	•	svgwrite（SVG 生成）
